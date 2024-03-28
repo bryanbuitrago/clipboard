@@ -7,7 +7,7 @@ const BottomSection = () => {
         <h3>clipboard for iOS and MacOS</h3>
         <p className='section-content mb-10 text-xl'>
           Available for free on the App Store. Download for Mac or iOS, sync
-          with iCloud and you're ready to start adding to your clipboard.
+          with iCloud and you&apos;re ready to start adding to your clipboard.
         </p>
         <div className='button-container'>
           <Link
