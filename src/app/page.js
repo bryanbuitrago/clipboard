@@ -1,3 +1,4 @@
+import AccesAnywhereSection from '@/components/access/AccesAnywhereSection';
 import FeaturesSection from '@/components/features/FeaturesSection';
 import HeroSection from '@/components/hero/HeroSection';
 import SnippetsSection from '@/components/snippets/SnippetsSection';
@@ -8,6 +9,7 @@ export default function Home() {
       <HeroSection />
       <SnippetsSection />
       <FeaturesSection />
+      <AccesAnywhereSection />
     </main>
   );
 }
