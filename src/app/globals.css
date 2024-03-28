@@ -19,7 +19,7 @@
 }
 
 @media (max-width: 576px) {
-  .clipboard-header-bg-image {
+  .header-bg-image {
     background-image: url('/images/bg-header-mobile.png');
   }
 }
