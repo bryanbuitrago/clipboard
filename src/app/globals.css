@@ -13,14 +13,14 @@
 }
 
 .clipboard-header-bg-image {
-  background-image: url('/clipboard-web-app/images/bg-header-desktop.png');
+  background-image: url('/images/bg-header-desktop.png');
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 @media (max-width: 576px) {
   .clipboard-header-bg-image {
-    background-image: url('/clipboard-web-app/images/bg-header-mobile.png');
+    background-image: url('/images/bg-header-mobile.png');
   }
 }
 
