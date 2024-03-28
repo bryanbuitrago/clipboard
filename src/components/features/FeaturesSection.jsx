@@ -16,7 +16,10 @@ const FeaturesSection = () => {
               className='md:absolute top-24 right-[50%]'
             />
           </div>
-          <div className='flex flex-col mt-16 mb-24 space-y-12 text-xl md:w-1/2 md:mb-60 md:text-left md:pl-16'>
+          <div
+            className='flex flex-col mt-16 mb-24 space-y-12 text-xl 
+                       md:w-1/2 md:mb-60 md:text-left md:pl-16'
+          >
             {FEATURES_DATA.map(({ heading, paragraph }, index) => (
               <FeaturesItem
                 key={index}
